@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Gellry/static/css/main.bcf2f5bc.css",
+    "main.js": "/Dynamic-Gellry/static/js/main.19a1b682.js",
+    "index.html": "/Dynamic-Gellry/index.html",
+    "main.bcf2f5bc.css.map": "/Dynamic-Gellry/static/css/main.bcf2f5bc.css.map",
+    "main.19a1b682.js.map": "/Dynamic-Gellry/static/js/main.19a1b682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf2f5bc.css",
+    "static/js/main.19a1b682.js"
+  ]
+}
